@@ -1003,4 +1003,11 @@
 // let man = [
 //   long:"5feet",
 // ]
-console.log("tasin");
+// console.log("tasin");
+
+const first = [2, 3, 45, 6];
+const second = [64, 34, 24];
+
+const combined = first.concat(second);
+
+console.log(combined);
